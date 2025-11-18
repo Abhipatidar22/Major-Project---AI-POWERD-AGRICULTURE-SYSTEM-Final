@@ -60,6 +60,8 @@ logs/
 *.joblib
 *.h5
 *.hdf5
+models/
+*.keras
 
 # Data
 *.csv
