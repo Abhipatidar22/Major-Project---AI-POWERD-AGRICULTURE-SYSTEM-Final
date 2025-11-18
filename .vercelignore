@@ -1,0 +1,17 @@
+.vercelignore
+# Ignore Python backend files
+requirements.txt
+api_server.py
+*.py
+.venv/
+models/
+data/
+src/
+
+# Ignore other frontend folders
+frontend/
+frontend-react/
+web-frontend/
+
+# Keep only web-app
+!web-app/
